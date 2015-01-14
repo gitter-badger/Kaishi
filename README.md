@@ -1,6 +1,8 @@
 Kaishi
 ======
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mourningdawn/Kaishi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Kaishi is Japanese for Start, Beginning, or Commencement, and that is what this is, a start.
 
 Kaishi is to be a simple template with which others can create style sheets that are both readable and usable.
